@@ -7,6 +7,6 @@ export default defineNuxtConfig({
       API_URL: process.env.NUXT_APP_API_URL,
     },
   },
-  modules: ['@nuxt/ui'],
-  css: ['~/assets/css/main.css']
+  // modules: ['@nuxt/ui'],
+  // css: ['~/assets/css/main.css']
 })

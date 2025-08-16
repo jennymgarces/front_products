@@ -73,3 +73,6 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## EVIDENCIAS
+<img width="623" height="530" alt="image" src="https://github.com/user-attachments/assets/b14bb5be-80a8-4a89-8119-3d3930f0b567" />
+
